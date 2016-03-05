@@ -4,7 +4,7 @@ body {
     overflow: hidden;
     position: relative;
     overflow-y: scroll;
-    cursor: url('new.cur'), auto;
+    cursor: url('spoon.cur'), auto;
 }
 
 .home {

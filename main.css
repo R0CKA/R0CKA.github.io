@@ -3,7 +3,7 @@ body {
     margin: 0;
     overflow: hidden;
     position: relative;
-    cursor: url('new.cur'), auto;
+    cursor: url('spoon.cur'), auto;
 }
 
 .home {

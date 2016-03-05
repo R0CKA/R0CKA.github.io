@@ -3,7 +3,7 @@ body {
     margin: 0;
     overflow: hidden;
     position: relative;
-    cursor: url('new.cur'), auto;
+    cursor: url('spoon.cur'), auto;
 }
 
 .home {
@@ -131,5 +131,5 @@ td a {
     font-size: 1.25em;
     text-decoration: none;
     color:#d9d9d9;
-    cursor: url('new.cur'), auto;
+    cursor: url('spoon.cur'), auto;
 }
