@@ -54,14 +54,13 @@ body {
 .menu {
     background-color: rgba(217,217,217,0.9);
     height: 300vh;
-    position: fixed;
+    position:fixed;
     width: 20vw;
     margin-left: -20vw;
-    display: inline-block;
 }
 
 .menu li {
-    color: rgba(204,0,0,1);
+    color: rgba(204,0,0, ,1);
     list-style: none;
     font-family: 'Century Gothic', 'Candara', 'Calibri Light', 'Gadugi', serif;
     width:18vw;
@@ -74,7 +73,7 @@ body {
 
 .menu li:hover {
     background-color: rgba(204,0,0,0.9);
-    color: #d9d9d9;
+    color: #d9d9d9
 }
 
 #first{
@@ -96,40 +95,4 @@ body {
 .menu a {
     text-decoration: none;
     color: rgba(204,0,0,1);
-}
-
-#dishlist {
-    background-color: rgba(54,54,54,0.94);
-    margin-left:vw;
-    display: inline-block;
-}
-
-th {
-    font-size: 2em;
-}
-
-table {
-    color:#d9d9d9;
-    font-family: 'Century Gothic', 'Candara', 'Calibri Light', 'Gadugi', serif;
-    text-align: center;
-    padding: 1vw;
-    width:100vw;
-    height:90vh
-}
-
-#dishlist img {
-    max-width: 20vw;
-    max-height: 20vh;
-    display:block;
-    border-radius: 4vh;
-    padding: 2vh;
-    cursor: url('fork.cur'), auto;
-    margin: auto;
-}
-
-td a {
-    font-size: 1.25em;
-    text-decoration: none;
-    color:#d9d9d9;
-    cursor: url('new.cur'), auto;
 }
